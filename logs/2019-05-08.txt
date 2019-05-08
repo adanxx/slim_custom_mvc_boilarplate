@@ -1,0 +1,9 @@
+
+[08-May-2019 22:13:38 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc_framework_dh\public\index.php(55): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\mvc_framework_dh\Core\Router.php' on line 134
+[08-May-2019 22:20:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\mvc_framework_dh\public\index.php(55): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\mvc_framework_dh\Core\Router.php' on line 134
